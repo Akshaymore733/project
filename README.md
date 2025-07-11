@@ -15,4 +15,4 @@ steps to analyze data:-
 
 6.Analyze the sales and profit by customer segment.
 
-7.Analyze sales ro profit ratio.
+7.Analyze sales to profit ratio.
