@@ -1,5 +1,5 @@
 # project
-E-commerce store sales analysis
+E-commerce Store Sales Analysis Project
 
 steps to analyze data:-
 
