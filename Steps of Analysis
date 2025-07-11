@@ -1,1 +1,41 @@
+✅ Step-by-step Sales Analysis Plan
+
+1. Monthly Sales Overview
+     Convert Order Date to datetime
+
+     Extract month and year
+
+     Group by month-year and sum sales
+
+     Identify month with highest and lowest sales
+
+2. Sales by Product Category
+     Group by Category and sum sales
+
+     Find the highest and lowest sales category
+
+3. Sales by Sub-Category
+     Group by Sub-Category and sum sales
+
+     Identify top and bottom performers
+
+4. Monthly Profit Analysis
+     Group by month-year and sum Profit
+  
+     Find the month with highest profit
+
+5. Profit by Category and Sub-Category
+    Group by both Category and Sub-Category
+
+    Summarize profits
+
+6. Sales & Profit by Customer Segment
+    Group by Segment and summarize both sales and profit
+
+7. Sales to Profit Ratio
+     Calculate the overall and segment/category-level profit margin:
+     Profit Ratio = Profit / Sales
+
+
+
 
